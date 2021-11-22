@@ -139,10 +139,6 @@ public class Intefaz extends JFrame implements ActionListener {
      interfaz.setVisible(true);
      interfaz.setLocationRelativeTo(null);
 
-
-
-
-
  }
 
 }
